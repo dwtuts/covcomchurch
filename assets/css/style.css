@@ -1,0 +1,40 @@
+/* Global */
+body {
+  background-color: #f9f9f9f9;
+}
+/* Intro jumbotron */
+.jumbotron {
+  margin-bottom: 0;
+}
+.main-jumbo {
+  border-radius: 0;
+  background: url('../img/snow.jpg') 100% no-repeat;
+  background-size: contain cover;
+  height: 350px;
+}
+.jumbo-intro {
+  text-align: center;
+  width: 50%;
+  background-color: rgba(0,0,0,0.4);
+  margin: 0 auto;
+  /* padding: 10px; */
+  display: block;
+  color: #f9f9f9f9;
+  font-weight: 100;
+  border-radius: 5px;
+
+}
+
+.jumbo-intro .main-text {
+  padding: 50px 20px;
+}
+
+/* navigation */
+.bg-dark {
+  color: #f9f9f9f9;
+  background-color: rgba(0,0,0,0.8) !important;
+}
+
+/* .nav-link {
+  color: #f9f9f9f9;
+} */
